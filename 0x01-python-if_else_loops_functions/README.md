@@ -14,3 +14,6 @@
 - 11-pow.py: function that computes a to the power of b and return the value
 - 12-fizzbuzz.py: function that prints the numbers from 1 to 100 separated by a space
 - 13-insert_number.c:  function in C that inserts a number into a sorted singly linked list.
+- 100-print_tebahpla.py: prints the alphabet, in reverse order, alternating lowercase and uppercase
+- 101-remove_char_at.py: function that creates a copy of the string, removing the character at the position n
+- 102-magic_calculation.py: function def magic_calculation(a, b, c): that does exactly the same as the following Python bytecode
