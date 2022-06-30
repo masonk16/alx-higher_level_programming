@@ -1,4 +1,4 @@
 # ALX Higher Level Programming
-- 0x01 Hello, world
-- if/else, loops, functions
-- Import & modules
+- 0x00: Hello, world
+- 0x01: if/else, loops, functions
+- 0x02: Import & modules
