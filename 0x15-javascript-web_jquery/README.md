@@ -10,3 +10,4 @@
 - 7-script.js: script that fetches the character name from this URL: https://swapi-api.hbtn.io/api/people/5/?format=json.
 - 8-script.js: script that fetches and lists the title for all movies by using this URL: https://swapi-api.hbtn.io/api/films/?format=json.
 - 9-script.js: script that fetches from https://fourtonfish.com/hellosalut/?lang=fr and displays the value of hello from that fetch in the HTML tag DIV#hello.
+- 100-script.js: script that updates the text color of the <header> element to red (#FF0000).
