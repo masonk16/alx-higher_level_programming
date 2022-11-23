@@ -13,3 +13,4 @@
 - 100-script.js: script that updates the text color of the <header> element to red (#FF0000).
 - 101-script.js: script that adds, removes and clears LI elements from a list when the user clicks.
 - 102-script.js: script that fetches and prints how to say “Hello” depending on the language.
+- 103-script.js: script that fetches and prints how to say “Hello” depending on the language.
